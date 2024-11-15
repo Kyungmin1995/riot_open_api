@@ -4,6 +4,8 @@ next app Router
 riot api (TFT 전략적 팀전투) 
 유저닉네임 태그 로 최근 1게임 정보 확인
 
+https://tft-scroe-lvd0d57dx-rudals95s-projects.vercel.app/search
+
 npm run dev
 
 npm run build
