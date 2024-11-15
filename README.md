@@ -11,4 +11,6 @@ npm run build
 npm run start
 
 
+개발 키 24 시간 마다 갱신필요 
+
 <img width="903" alt="스크린샷 2024-11-15 오후 1 19 31" src="https://github.com/user-attachments/assets/1324923d-923a-4351-b0e8-7121dcbdff82">
